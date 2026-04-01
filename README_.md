@@ -2,7 +2,7 @@
 | Name | Icon | SvgVersion | GifVersion |
 | - | - | - | - |
 | 大会员 | <img src="images/small_icons/vip.png" /> | <img src="images/small_icons/vip.svg" /> |  |
-| 大会员-愚人节 | <img src="images/small_icons/0401_vip.png" /> | <img src="images/small_icons/0401_vip.svg" /> |  |
+| 大会员-愚人节 | <img src="images/small_icons/0401_vip.png" width="60"/> | <img src="images/small_icons/0401_vip.svg" /> |  |
 | 企业认证 | <img src="images/small_icons/enterprise_certification.png" /> | <img src="images/small_icons/enterprise_certification.svg" /> |  |
 | 知名认证 | <img src="images/small_icons/renowned_certification.png" /> | <img src="images/small_icons/renowned_certification.svg" /> |  |
 | NFT | <img src="images/small_icons/nft.png" /> |  | <img src="images/small_icons/nft.gif" /> |
