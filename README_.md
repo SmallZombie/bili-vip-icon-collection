@@ -81,3 +81,7 @@
 | 2026新春抓马赢好彩 | <img src="images/11/one_year_vip.png"/> | <img src="images/11/super_one_year_vip.png"/> |  |
 | 2026新春抓马赢好彩 | <img src="images/11/ten_year_vip.png"/> | <img src="images/11/super_ten_year_vip.png"/> |  |
 | 2026新春抓马赢好彩 | <img src="images/11/century_vip.png"/> | <img src="images/11/super_century_vip.png"/> |  |
+| 2026愚人节 | <img src="images/12/vip.png"/> | <img src="images/12/super_vip.png"/> |  |
+| 2026愚人节 | <img src="images/12/one_year_vip.png"/> | <img src="images/12/super_one_year_vip.png"/> |  |
+| 2026愚人节 | <img src="images/12/ten_year_vip.png"/> | <img src="images/12/super_ten_year_vip.png"/> |  |
+| 2026愚人节 | <img src="images/12/century_vip.png"/> | <img src="images/12/super_century_vip.png"/> |  |
