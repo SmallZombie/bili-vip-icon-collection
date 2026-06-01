@@ -16,6 +16,7 @@
 | Name | NormalVersion| SuperVersion | Note |
 | - | - | - | - |
 | 常规-特殊 | <img src="images/1/special_vip.png"/> | | 通常不可见，从接口里拿到的 |
+| 常规-特殊-EN | <img src="images/1/special_vip_en.png"/> | | 通常不可见，从接口里拿到的 |
 | 常规 | <img src="images/1/vip.png"/> | <img src="images/1/super_vip.png"/> |  |
 | 常规 | <img src="images/1/one_year_vip.png"/> | <img src="images/1/super_one_year_vip.png"/> |  |
 | 常规 | <img src="images/1/ten_year_vip.png"/> | <img src="images/1/super_ten_year_vip.png"/> |  |
@@ -85,3 +86,7 @@
 | 2026愚人节 | <img src="images/12/one_year_vip.png"/> | <img src="images/12/super_one_year_vip.png"/> |  |
 | 2026愚人节 | <img src="images/12/ten_year_vip.png"/> | <img src="images/12/super_ten_year_vip.png"/> |  |
 | 2026愚人节 | <img src="images/12/century_vip.png"/> | <img src="images/12/super_century_vip.png"/> |  |
+| 2026儿童节 | <img src="images/13/vip.png"/> | <img src="images/13/super_vip.png"/> | 这次b站并没有给所有档位的超大会员准备铭牌，所有超大会员均为此图标 |
+| 2026儿童节 | <img src="images/13/one_year_vip.png"/> |  |  |
+| 2026儿童节 | <img src="images/13/ten_year_vip.png"/> |  |  |
+| 2026儿童节 | <img src="images/13/century_vip.png"/> |  |  |
