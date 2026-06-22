@@ -90,3 +90,7 @@
 | 2026儿童节 | <img src="images/13/one_year_vip.png"/> |  |  |
 | 2026儿童节 | <img src="images/13/ten_year_vip.png"/> |  |  |
 | 2026儿童节 | <img src="images/13/century_vip.png"/> |  |  |
+| 2026B站17周年庆 | <img src="images/14/vip.png"/> | <img src="images/14/super_vip.png"/> | 与上次一样，疑似从26年的儿童节开始b站不会为所有档位的超大会员绘制单独的图标了 |
+| 2026B站17周年庆 | <img src="images/14/one_year_vip.png"/> |  |  |
+| 2026B站17周年庆 | <img src="images/14/ten_year_vip.png"/> |  |  |
+| 2026B站17周年庆 | <img src="images/14/century_vip.png"/> |  |  |
