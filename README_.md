@@ -94,3 +94,11 @@
 | 2026B站17周年庆 | <img src="images/14/one_year_vip.png"/> |  |  |
 | 2026B站17周年庆 | <img src="images/14/ten_year_vip.png"/> |  |  |
 | 2026B站17周年庆 | <img src="images/14/century_vip.png"/> |  |  |
+| 2026中华慈善日 | <img src="images/15/vip.png"/> | <img src="images/15/super_vip.png"/> | [活动页面](https://www.bilibili.com/blackboard/era/tXFPDjbXYFwDOR4d.html) |
+| 2026中华慈善日 | <img src="images/15/one_year_vip.png"/> | <img src="images/15/super_one_year_vip.png"/> |  |
+| 2026中华慈善日 | <img src="images/15/ten_year_vip.png"/> | <img src="images/15/super_ten_year_vip.png"/> |  |
+| 2026中华慈善日 | <img src="images/15/century_vip.png"/> | <img src="images/15/super_century_vip.png"/> |  |
+| 2026中华慈善日-特殊 | <img src="images/15/special_vip.png"/> | <img src="images/15/special_super_vip.png"/> | 活动期间，如果曾在b站公益捐赠过，图标会变为金色版 |
+| 2026中华慈善日-特殊 | <img src="images/15/special_one_year_vip.png"/> | <img src="images/15/special_super_one_year_vip.png"/> |  |
+| 2026中华慈善日-特殊 | <img src="images/15/special_ten_year_vip.png"/> | <img src="images/15/special_super_ten_year_vip.png"/> |  |
+| 2026中华慈善日-特殊 | <img src="images/15/special_century_vip.png"/> | <img src="images/15/special_super_century_vip.png"/> |  |
